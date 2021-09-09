@@ -1,3 +1,14 @@
 h1 { color: olive}
 
 p:hover{ color: deeppink}
+
+fieldset   {
+    background-color: rebeccapurple;
+    color: sandybrown;
+    border-radius: 10px;
+    border-style: dotted;
+            }
+
+fieldset:hover {
+    background-color: darkred;
+}
